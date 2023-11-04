@@ -1,4 +1,4 @@
-package cn.hwh.TikHandle;
+package cn.hwh.tikhandle;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

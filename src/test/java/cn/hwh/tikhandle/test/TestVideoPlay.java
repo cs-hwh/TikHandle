@@ -1,4 +1,4 @@
-package cn.hwh.TikHandle.test;
+package cn.hwh.tikhandle.test;
 
 import com.alibaba.fastjson.JSON;
 import com.qiniu.common.QiniuException;
